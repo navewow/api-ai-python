@@ -1,2 +1,3 @@
 #numpy==1.9.1
 #scipy==0.15.1 # travis fails
+#apiai==1.2.1
